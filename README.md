@@ -66,14 +66,13 @@ Thank you! Please *Fork* → *Patch* → *Push* → *Pull Request* and follow th
 
 This project is licensed under the [**Creative Commons BY 4**](https://creativecommons.org/licenses/by/4.0/) license. This content is distributed in the hope that it will be useful, but **without any warranty**; without even the implied warranty of **merchantability** or **fitness for a particular purpose**.
 
-
 ## Acknowlegements <img height=30px src="icons/Heart.svg">
 
 The Original *FamFamFam Silk* icon pack ([github](https://github.com/markjames/famfamfam-silk-icons) • [website](http://www.famfamfam.com/lab/icons/silk/)) remains the property of Mark James. Mark, please have my thanks and salute for your great work.
 
 #### About IA
 
-No IA has been involved so far, and as little as possible in the near future. AI may be used indirectly for chores, triaging, ideating, but not for generating icons themself.
+**No IA has been involved so far**, and hopefully as little and late as possible in the future. AI may be used indirectly (chores, triaging, ideating, …), not as the main activity of this project (i.e.: generating icons, training on Mark's style, …).
 
 #### Fonts
 - [Fira Mono](https://github.com/mozilla/Fira)
