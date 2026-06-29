@@ -58,7 +58,7 @@ Thank you! Please *Fork* → *Patch* → *Push* → *Pull Request* and follow th
 - Icons must be designed to be **legible in any size from 16×16px to 64×64px**. It must have the right balance between too much details and too little. I recommand using a grid of 16×16 to help.
 - Icon improvement based on existing icons must be as close as possible to the original design, especially at 16×16px.
 - Icon must render without visual artefact in today's broswer such as WebKit, Blink, Gecko. (Test your icons)
-- Please do not use AI and help conserve the planet's resources ![globe icon](https://raw.githubusercontent.com/roxwize/famfamfam-silk-svg/refs/heads/main/icons/World.svg)
+- Please avoid using AI and help conserve the planet's resources ![globe icon](https://raw.githubusercontent.com/roxwize/famfamfam-silk-svg/refs/heads/main/icons/World.svg)
 
 ## License <img height=30px src="icons/Report.svg">
 
@@ -71,7 +71,7 @@ The Original *FamFamFam Silk* icon pack ([github](https://github.com/markjames/f
 
 #### About IA
 
-No IA has been involved in the making so far, and if possible not in the near future. I may use AI indirectly for chores, triaging, ideating, but not for generating icons themself.
+No IA has been involved so far, and as little as possible in the near future. AI may be used indirectly for chores, triaging, ideating, but not for generating icons themself.
 
 #### Fonts
 - [Fira Mono](https://github.com/mozilla/Fira)
