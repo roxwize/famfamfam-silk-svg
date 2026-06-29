@@ -3,7 +3,7 @@
 # FamFamFam Silk as SVG
 > The iconic iconset of the 2010’s era from Mark James, remade in SVG for today’s needs.
 
-This project contains ~1000 icons in SVG. SVG is lightweight, scalable compared to PNG — and open format, allowing anyone to edit it to his/her needs. I aim to have all the original icons remastered, but also create more up-to-date versions (Smartphones was not a thing back in 2008). Plus, most icons can be mixed with decorators (bullets) to get more meaning. 
+This project contains ~1000 icons in SVG. SVG is lightweight, scalable compared to PNG — and open format, allowing anyone to edit it to their needs. I aim to have all the original icons remastered, but also create more up-to-date versions (Smartphones was not a thing back in 2008). Plus, most icons can be mixed with decorators (bullets) to get more meaning. 
 
 Scale: <img height=16px src="icons/Cup.svg"> <img height=24px src="icons/Cup.svg"> <img height=32px src="icons/Cup.svg"> <img height=48px src="icons/Cup.svg"> <img height=64px src="icons/Cup.svg">
 
