@@ -5,8 +5,6 @@
 
 This project contains ~1000 icons in SVG. SVG is lightweight, scalable compared to PNG — and open format, allowing anyone to edit it to their needs. I aim to have all the original icons remastered, but also create more up-to-date versions (Smartphones was not a thing back in 2008). Plus, most icons can be mixed with decorators (bullets) to get more meaning. 
 
-Scale: <img height=16px src="icons/Cup.svg"> <img height=24px src="icons/Cup.svg"> <img height=32px src="icons/Cup.svg"> <img height=48px src="icons/Cup.svg"> <img height=64px src="icons/Cup.svg">
-
 Mix: ![Cup of caffee](<public/Cup of caffe.svg>) + ![Bullet delete](<icons/Bullet delete.svg>) = ![A cup of caffe with a delete bullet at its bottom right](<public/I should stop caffe.svg>)
 
 Customize: ![Cup of caffee](<public/Cup of caffe.svg>) ![Cup of Matcha latte](<public/Cup of matcha.svg>) ![Cup of Tea](<public/Cup of tea.svg>) ![Cup of water](<public/Cup of water.svg>)
@@ -60,14 +58,20 @@ Thank you! Please *Fork* → *Patch* → *Push* → *Pull Request* and follow th
 - Icons must be designed to be **legible in any size from 16×16px to 64×64px**. It must have the right balance between too much details and too little. I recommand using a grid of 16×16 to help.
 - Icon improvement based on existing icons must be as close as possible to the original design, especially at 16×16px.
 - Icon must render without visual artefact in today's broswer such as WebKit, Blink, Gecko. (Test your icons)
+- Please do not use AI and help conserve the planet's resources ![globe icon](https://raw.githubusercontent.com/roxwize/famfamfam-silk-svg/refs/heads/main/icons/World.svg)
 
 ## License <img height=30px src="icons/Report.svg">
 
 This project is licensed under the [**Creative Commons BY 4**](https://creativecommons.org/licenses/by/4.0/) license. This content is distributed in the hope that it will be useful, but **without any warranty**; without even the implied warranty of **merchantability** or **fitness for a particular purpose**.
 
+
 ## Acknowlegements <img height=30px src="icons/Heart.svg">
 
 The Original *FamFamFam Silk* icon pack ([github](https://github.com/markjames/famfamfam-silk-icons) • [website](http://www.famfamfam.com/lab/icons/silk/)) remains the property of Mark James. Mark, please have my thanks and salute for your great work.
+
+#### About IA
+
+No IA has been involved in the making so far, and if possible not in the near future. I may use AI indirectly for chores, triaging, ideating, but not for generating icons themself.
 
 #### Fonts
 - [Fira Mono](https://github.com/mozilla/Fira)
