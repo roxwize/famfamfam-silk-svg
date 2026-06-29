@@ -5,6 +5,8 @@
 
 This project contains ~1000 icons in SVG. SVG is lightweight, scalable compared to PNG — and open format, allowing anyone to edit it to their needs. I aim to have all the original icons remastered, but also create more up-to-date versions (Smartphones was not a thing back in 2008). Plus, most icons can be mixed with decorators (bullets) to get more meaning. 
 
+Scale: <img width="16" src="icons/Cup.svg"> <img width="24" src="icons/Cup.svg"> <img width="32" src="icons/Cup.svg"> <img width="48" src="icons/Cup.svg"> <img width="64" src="icons/Cup.svg">
+
 Mix: ![Cup of caffee](<public/Cup of caffe.svg>) + ![Bullet delete](<icons/Bullet delete.svg>) = ![A cup of caffe with a delete bullet at its bottom right](<public/I should stop caffe.svg>)
 
 Customize: ![Cup of caffee](<public/Cup of caffe.svg>) ![Cup of Matcha latte](<public/Cup of matcha.svg>) ![Cup of Tea](<public/Cup of tea.svg>) ![Cup of water](<public/Cup of water.svg>)
