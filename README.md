@@ -3,7 +3,7 @@
 # FamFamFam Silk as SVG
 > The iconic iconset of the 2010’s era from Mark James, remade in SVG for today’s needs.
 
-This project contains ~1000 icons in SVG. SVG is lightweight, scalable compared to PNG — and open format, allowing anyone to edit it to their needs. I aim to have all the original icons remastered, but also create more up-to-date versions (Smartphones was not a thing back in 2008). Plus, most icons can be mixed with decorators (bullets) to get more meaning. 
+This project contains ~1000 icons in SVG. SVG is lightweight and scalable compared to PNG — an open format, allowing anyone to edit it to their needs. I aim to have all the original icons remastered, but also create more up-to-date versions (smartphones were not a thing back in 2008). Plus, most icons can be mixed with decorators (bullets) to add more meaning. 
 
 Scale: <img width="16" src="icons/Cup.svg"> <img width="20" src="icons/Cup.svg"> <img width="32" src="icons/Cup.svg"> <img width="48" src="icons/Cup.svg"> <img width="64" src="icons/Cup.svg">
 
@@ -70,9 +70,9 @@ This project is licensed under the [**Creative Commons BY 4**](https://creativec
 
 The Original *FamFamFam Silk* icon pack ([github](https://github.com/markjames/famfamfam-silk-icons) • [website](http://www.famfamfam.com/lab/icons/silk/)) remains the property of Mark James. Mark, please have my thanks and salute for your great work.
 
-#### About IA
+#### About AI
 
-**No IA has been involved so far**, and hopefully as little and late as possible in the future. AI may be used indirectly (chores, triaging, ideating, …), not as the main activity of this project (i.e.: generating icons, training on Mark's style, …).
+**No AI has been utilized so far**, and hopefully will be used as little as possible in the future. AI may be used indirectly (chores, triaging, ideating, …), but not for the main activities of this project (i.e.: generating icons, training on Mark's style, …).
 
 #### Fonts
 - [Fira Mono](https://github.com/mozilla/Fira)
